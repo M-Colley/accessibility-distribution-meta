@@ -13,3 +13,5 @@ We found that work on vision disability makes up for almost one third (28.85\%) 
 
 
 DOI: 10.1145/3491101.3519701
+
+[![DOI:10.1145/3491101.3519701](https://zenodo.org/badge/DOI/10.1145/3491101.3519701.svg)](https://doi.org/10.1145/3491101.3519701)
